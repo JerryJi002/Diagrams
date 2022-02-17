@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T14:15:40.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="NrTYuH526FuLwQwzDTRS" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T14:17:28.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="baXZNupWxzb2qtEKicMl" version="16.4.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="989" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1153" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fLjL3CuNlObIAqEd3nWW-106" value="Invoice" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="180" height="160" as="geometry" />
+          <mxGeometry x="350" y="160" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fLjL3CuNlObIAqEd3nWW-107" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="fLjL3CuNlObIAqEd3nWW-106">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -214,8 +214,8 @@
         <mxCell id="fLjL3CuNlObIAqEd3nWW-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="fLjL3CuNlObIAqEd3nWW-107" target="fLjL3CuNlObIAqEd3nWW-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fLjL3CuNlObIAqEd3nWW-133" value="1. Do you want to include the cost in the invoice?&lt;br&gt;&lt;br&gt;2. Do you want to keep track of other customer information?&lt;br&gt;&lt;br&gt;3.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="440" width="640" height="110" as="geometry" />
+        <mxCell id="fLjL3CuNlObIAqEd3nWW-133" value="1. Do you want to include the cost in the invoice?&lt;br&gt;&lt;br&gt;2. Do you want to keep track of other customer information?&lt;br&gt;&lt;br&gt;3. Will the customer be able to have more than one invoice?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="480" width="330" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
