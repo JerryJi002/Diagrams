@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T02:31:34.009Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="ghK3ER28kQ-XXDYzN3_w" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T02:53:49.698Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="cY_5NYibICcGAx85pNVN" version="16.6.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="656" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="863" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -286,8 +286,8 @@
         <mxCell id="13TiDlGeuskkCQygmTx4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;strokeWidth=1;" edge="1" parent="1" source="museYFuH07TtmbTgfwsL-28" target="museYFuH07TtmbTgfwsL-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="13TiDlGeuskkCQygmTx4-20" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1. Can a customer&#39;s address be associated with a minimum number of zero invoice?&lt;br&gt;2. Can a service be associated with a minimum number of zero invoice detail?&lt;br&gt;&lt;div&gt;&lt;span&gt;3. Do you want to include the total cost in the invoice?&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="157" y="880" width="537" height="80" as="geometry" />
+        <mxCell id="13TiDlGeuskkCQygmTx4-20" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1. Can a customer&#39;s address be associated with a minimum number of zero invoices?&lt;br&gt;2. Can a service be associated with a minimum number of zero invoice details?&lt;br&gt;&lt;div&gt;&lt;span&gt;3. Do you want to include the total cost in the invoice?&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="154" y="880" width="543" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
